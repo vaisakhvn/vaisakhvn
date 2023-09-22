@@ -12,10 +12,6 @@ Hello! 👋 My name is Vaisakh, and I'm delighted to welcome you to my GitHub pr
 - 🐍 Python is my language of choice, and I find its simplicity and versatility truly captivating. From web development to data analysis, Python has been my faithful companion on this coding journey.
 - 📊 My long-term goal is to become a data scientist. I believe in the power of data to drive insights, inform decisions, and shape the future. My programming skills are a stepping stone toward this exciting career path.
 
-## ♟️ My Love for Chess
-
-- ♟️ When I'm not immersed in the world of code, I love to play chess. It's a game of strategy, tactics, and endless possibilities, much like programming itself. Chess challenges my mind and teaches me valuable lessons in strategy and foresight.
-
 ## 📚 My Learning Journey
 
 - 🧠 Learning is a never-ending journey for me. I'm constantly seeking to expand my knowledge and hone my skills.

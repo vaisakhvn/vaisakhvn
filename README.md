@@ -10,7 +10,7 @@ Hello! 👋 My name is Vaisakh, and I'm delighted to welcome you to my GitHub pr
 
 - 👨‍💻 I'm passionate about programming, and it's one of the many ways I express my creativity and problem-solving skills.
 - 🐍 Python is my language of choice, and I find its simplicity and versatility truly captivating. From web development to data analysis, Python has been my faithful companion on this coding journey.
-- 📊 My long-term goal is to become a data scientist. I believe in the power of data to drive insights, inform decisions, and shape the future. My programming skills are a stepping stone toward this exciting career path.
+- 📊 My long-term goal is to become an AI Researcher.
 
 ## 📚 My Learning Journey
 

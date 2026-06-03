@@ -20,30 +20,6 @@ My long-term goal is to contribute to AI systems that improve how humans learn, 
 
 ---
 
-## Selected Projects
-
-### AcademiaForge
-
-Privacy-first AI study companion designed to help students improve learning habits while maintaining control over their data.
-
-**Website:** https://academiaforge.vercel.app
-
-### MathLearnAI
-
-Educational platform built around Socratic learning principles that guides students through reasoning instead of providing direct answers.
-
-**Website:** https://mathlearn-ai.vercel.app
-
-### SpendWise
-
-Minimalist expense management application focused on simplicity, speed, and usability.
-
-**Website:** https://spendwise-expense-manager.vercel.app
-
-More projects can be found in my repositories.
-
----
-
 ## Current Focus
 
 * Building stronger foundations in Artificial Intelligence and Mathematics
